@@ -1,6 +1,7 @@
 const { minVal, fizzBuzz, timesTwo, returnObjects, removeBMW } = require('./index');
 //this is a test
 //this is a second test
+// Hi Jessica!!
 test('passes when value is NaN', () => {
     expect(NaN).toBeNaN();
     expect(1).not.toBeNaN();
